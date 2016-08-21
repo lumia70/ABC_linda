@@ -1,0 +1,9 @@
+F:\Source_Code\VS_Projects\ABC\ABC\bin\Debug\ABC.exe
+F:\Source_Code\VS_Projects\ABC\ABC\bin\Debug\ABC.pdb
+F:\Source_Code\VS_Projects\ABC\ABC\bin\Debug\MySql.Data.dll
+F:\Source_Code\VS_Projects\ABC\ABC\obj\x86\Debug\ABC.Form1.resources
+F:\Source_Code\VS_Projects\ABC\ABC\obj\x86\Debug\ABC.Properties.Resources.resources
+F:\Source_Code\VS_Projects\ABC\ABC\obj\x86\Debug\ABC.csproj.GenerateResource.Cache
+F:\Source_Code\VS_Projects\ABC\ABC\obj\x86\Debug\ABC.exe
+F:\Source_Code\VS_Projects\ABC\ABC\obj\x86\Debug\ABC.pdb
+F:\Source_Code\VS_Projects\ABC\ABC\obj\x86\Debug\ABC.csprojResolveAssemblyReference.cache
