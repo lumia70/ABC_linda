@@ -235,6 +235,7 @@ namespace ABC
             //DataTable str = db.Select(test5);
             //return double.Parse(str.Rows[0][0].ToString());
 
+            //Console.WriteLine("dqz a is " + a);
             double[] tmpcost = { -1, -1, -1};
 
             //foreach(SQLchan.myLinkElement tmpMyLinkEle in dbData.mMyLinkTable)
@@ -257,9 +258,11 @@ namespace ABC
             //        tmpcost[2] = tmpMyLinkEle.flowindex;
             //    }
             //}
+            Console.WriteLine("two points are " + dbData.mMyLinkTable[a - 3000].fromNode + " to " + dbData.mMyLinkTable[a - 3000].toNode);
             tmpcost[0] = dbData.mMyLinkTable[a - 3000].length;
             tmpcost[1] = dbData.mMyLinkTable[a - 3000].coverage;
             tmpcost[2] = dbData.mMyLinkTable[a - 3000].flowindex;
+            Console.WriteLine(a + " de tmpcost is " + tmpcost[0]);
             return tmpcost;
         }
         int findway(int a, int b)//返回以a，b为两端节点的弧段id
@@ -388,6 +391,7 @@ namespace ABC
                             //length = length + data(findway(now, s), "length");
                             //coverage = coverage + data(findway(now, s), "coverage");
                             //flowindex = flowindex + data(findway(now, s), "flowindex");
+                            Console.WriteLine("calc length in find +");
                             double[] tmpcost = data(findway(now, s), "length");
                             length = length + tmpcost[0];
                             coverage = coverage + tmpcost[1];
@@ -400,6 +404,7 @@ namespace ABC
                             //length = length - data(findway(now, s), "length");
                             //coverage = coverage - data(findway(now, s), "coverage");
                             //flowindex = flowindex - data(findway(now, s), "flowindex");  //trap here
+                            Console.WriteLine("calc length in find -");
                             tmpcost = data(findway(now, s), "length");
                             length = length - tmpcost[0];
                             coverage = coverage - tmpcost[1];
@@ -470,10 +475,13 @@ namespace ABC
                 //length = length + data(way[randkey],"length");
                 //coverage = coverage + data(way[randkey], "coverage");
                 //flowindex = flowindex + data(way[randkey], "flowindex");
+                //Console.WriteLine("calc length in ranpath");
                 double[] tmpcost = data(way[randkey], "length");
                 length = length + tmpcost[0];
                 coverage = coverage + tmpcost[1];
                 flowindex = flowindex + tmpcost[2];
+                Console.WriteLine("after calc length is " + length);
+                Console.WriteLine();
             }
          }
 
@@ -498,7 +506,10 @@ namespace ABC
                     savepath(i);
                     leader[i] = i;
                     i++;
-                }                
+                }
+                for (int j = 1; j <= allpath.pathnum[i - 1]; j++)
+                    Console.WriteLine(allpath.path[i - 1, j] + " ");
+                Console.WriteLine("a path is generated!!\n");
             }
             clearfollower(SN);
         }

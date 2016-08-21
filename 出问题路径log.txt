@@ -1,0 +1,1615 @@
+a path is generated!!
+
+two points are 109 to 17
+3096 de tmpcost is 109.6074801
+after calc length is 109.6074801
+
+two points are 109 to 17
+3096 de tmpcost is 109.6074801
+after calc length is 219.2149602
+
+two points are 16 to 50
+3202 de tmpcost is 30.04501372
+after calc length is 249.25997392
+
+two points are 50 to 18
+3203 de tmpcost is 65.08119558
+after calc length is 314.3411695
+
+two points are 50 to 18
+3203 de tmpcost is 65.08119558
+after calc length is 379.42236508
+
+two points are 51 to 123
+3093 de tmpcost is 106.5709552
+after calc length is 485.99332028
+
+two points are 51 to 123
+3093 de tmpcost is 106.5709552
+after calc length is 592.56427548
+
+two points are 2 to 3
+3001 de tmpcost is 222.2765981
+after calc length is 814.84087358
+
+two points are 2 to 5
+3191 de tmpcost is 153.7165439
+after calc length is 968.55741748
+
+two points are 2 to 5
+3191 de tmpcost is 153.7165439
+after calc length is 1122.27396138
+
+two points are 103 to 109
+3067 de tmpcost is 114.0579197
+after calc length is 114.0579197
+
+two points are 103 to 131
+3097 de tmpcost is 16.56405859
+after calc length is 130.62197829
+
+two points are 109 to 17
+3096 de tmpcost is 109.6074801
+after calc length is 109.6074801
+
+two points are 17 to 49
+3095 de tmpcost is 30.37714521
+after calc length is 139.98462531
+
+two points are 17 to 49
+3095 de tmpcost is 30.37714521
+after calc length is 170.36177052
+
+two points are 49 to 51
+3094 de tmpcost is 65.18865976
+after calc length is 235.55043028
+
+two points are 123 to 130
+
+3092 de tmpcost is 85.78400299
+after calc length is 321.33443327
+
+two points are 130 to 87
+3091 de tmpcost is 48.45500799
+after calc length is 369.78944126
+
+two points are 87 to 88
+3054 de tmpcost is 82.82968405
+after calc length is 452.61912531
+
+two points are 34 to 109
+3106 de tmpcost is 79.8524732
+after calc length is 79.8524732
+
+two points are 34 to 109
+3106 de tmpcost is 79.8524732
+after calc length is 159.7049464
+
+two points are 6 to 35
+3071 de tmpcost is 93.19385531
+after calc length is 252.89880171
+
+two points are 6 to 35
+3071 de tmpcost is 93.19385531
+after calc length is 346.09265702
+
+two points are 6 to 7
+3003 de tmpcost is 45.78882701
+after calc length is 391.88148403
+
+two points are 36 to 37
+3018 de tmpcost is 114.1929572
+after calc length is 506.07444123
+
+two points are 20 to 37
+3175 de tmpcost is 64.11124439
+after calc length is 570.18568562
+
+two points are 145 to 20
+3174 de tmpcost is 92.99956103
+after calc length is 663.18524665
+
+two points are 124 to 145
+3156 de tmpcost is 104.1217015
+after calc length is 767.30694815
+
+two points are 124 to 145
+3156 de tmpcost is 104.1217015
+after calc length is 871.42864965
+
+two points are 124 to 11
+3080 de tmpcost is 46.5681227
+after calc length is 917.99677235
+
+two points are 10 to 12
+3192 de tmpcost is 56.05070949
+after calc length is 974.04748184
+
+two points are 10 to 12
+3192 de tmpcost is 56.05070949
+after calc length is 1030.09819133
+
+two points are 11 to 32
+3194 de tmpcost is 55.81538712
+after calc length is 1085.91357845
+
+two points are 125 to 114
+3081 de tmpcost is 62.1925333
+after calc length is 1148.10611175
+
+two points are 125 to 114
+3081 de tmpcost is 62.1925333
+after calc length is 1210.29864505
+
+two points are 125 to 113
+3196 de tmpcost is 25.83153309
+after calc length is 1236.13017814
+
+two points are 106 to 13
+3115 de tmpcost is 26.49672124
+after calc length is 1262.62689938
+
+two points are 100 to 106
+3065 de tmpcost is 71.21473919
+after calc length is 1333.84163857
+
+two points are 108 to 100
+3208 de tmpcost is 17.5422253
+after calc length is 1351.38386387
+
+two points are 107 to 108
+3066 de tmpcost is 62.48269207
+after calc length is 1413.86655594
+
+two points are 114 to 107
+3119 de tmpcost is 29.17674516
+after calc length is 1443.0433011
+
+two points are 110 to 111
+3068 de tmpcost is 215.4119038
+after calc length is 1658.4552049
+
+two points are 117 to 110
+3120 de tmpcost is 98.32993394
+after calc length is 1756.78513884
+
+two points are 117 to 110
+3120 de tmpcost is 98.32993394
+after calc length is 1855.11507278
+
+two points are 109 to 17
+3096 de tmpcost is 109.6074801
+after calc length is 109.6074801
+
+two points are 17 to 49
+3095 de tmpcost is 30.37714521
+after calc length is 139.98462531
+
+two points are 49 to 50
+3026 de tmpcost is 69.58160011
+after calc length is 209.56622542
+
+two points are 16 to 50
+3202 de tmpcost is 30.04501372
+after calc length is 239.61123914
+
+two points are 39 to 16
+3177 de tmpcost is 26.00939876
+after calc length is 265.6206379
+
+two points are 37 to 39
+3176 de tmpcost is 15.54791282
+after calc length is 281.16855072
+
+two points are 36 to 37
+3018 de tmpcost is 114.1929572
+after calc length is 395.36150792
+
+two points are 36 to 38
+3108 de tmpcost is 60.75352958
+after calc length is 456.1150375
+
+two points are 36 to 38
+3108 de tmpcost is 60.75352958
+after calc length is 516.86856708
+
+two points are 38 to 34
+3107 de tmpcost is 26.20160068
+after calc length is 543.07016776
+
+two points are 6 to 35
+3071 de tmpcost is 93.19385531
+after calc length is 636.26402307
+
+two points are 6 to 35
+3071 de tmpcost is 93.19385531
+after calc length is 729.45787838
+
+two points are 124 to 7
+3110 de tmpcost is 102.6003563
+after calc length is 832.05823468
+
+two points are 33 to 124
+3111 de tmpcost is 55.18614319
+after calc length is 887.24437787
+
+two points are 32 to 33
+3016 de tmpcost is 46.00905383
+after calc length is 933.2534317
+
+two points are 32 to 125
+3104 de tmpcost is 61.1419849
+after calc length is 994.3954166
+
+two points are 125 to 114
+3081 de tmpcost is 62.1925333
+after calc length is 1056.5879499
+
+two points are 125 to 114
+3081 de tmpcost is 62.1925333
+after calc length is 1118.7804832
+
+two points are 125 to 113
+3196 de tmpcost is 25.83153309
+after calc length is 1144.61201629
+
+two points are 12 to 13
+3006 de tmpcost is 61.23300515
+after calc length is 1205.84502144
+
+two points are 10 to 12
+3192 de tmpcost is 56.05070949
+after calc length is 1261.89573093
+
+two points are 132 to 10
+3103 de tmpcost is 21.50865331
+after calc length is 1283.40438424
+
+two points are 98 to 132
+3102 de tmpcost is 49.54114378
+after calc length is 1332.94552802
+
+two points are 105 to 98
+3101 de tmpcost is 65.0618633
+after calc length is 1398.00739132
+
+two points are 105 to 99
+3113 de tmpcost is 66.69743251
+after calc length is 1464.70482383
+
+two points are 105 to 99
+3113 de tmpcost is 66.69743251
+after calc length is 1531.40225634
+
+two points are 99 to 106
+3114 de tmpcost is 44.82865491
+after calc length is 1576.23091125
+
+two points are 108 to 100
+3208 de tmpcost is 17.5422253
+after calc length is 1593.77313655
+
+two points are 107 to 108
+3066 de tmpcost is 62.48269207
+after calc length is 1656.25582862
+
+two points are 114 to 107
+3119 de tmpcost is 29.17674516
+after calc length is 1685.43257378
+
+two points are 110 to 111
+3068 de tmpcost is 215.4119038
+after calc length is 1900.84447758
+
+two points are 15 to 110
+3075 de tmpcost is 114.4968075
+after calc length is 2015.34128508
+
+two points are 15 to 110
+3075 de tmpcost is 114.4968075
+after calc length is 2129.83809258
+
+two points are 103 to 109
+3067 de tmpcost is 114.0579197
+after calc length is 114.0579197
+
+two points are 103 to 131
+3097 de tmpcost is 16.56405859
+after calc length is 130.62197829
+
+two points are 34 to 109
+3106 de tmpcost is 79.8524732
+after calc length is 79.8524732
+
+two points are 38 to 34
+3107 de tmpcost is 26.20160068
+after calc length is 106.05407388
+
+two points are 38 to 34
+3107 de tmpcost is 26.20160068
+after calc length is 132.25567456
+
+two points are 38 to 39
+3019 de tmpcost is 104.9901938
+after calc length is 237.24586836
+
+two points are 16 to 17
+3008 de tmpcost is 69.86998211
+after calc length is 307.11585047
+
+two points are 109 to 17
+3096 de tmpcost is 109.6074801
+after calc length is 416.72333057
+
+two points are 49 to 50
+3026 de tmpcost is 69.58160011
+after calc length is 486.30493068
+
+two points are 16 to 50
+3202 de tmpcost is 30.04501372
+after calc length is 516.3499444
+
+two points are 18 to 19
+3009 de tmpcost is 113.0842745
+after calc length is 629.4342189
+
+two points are 127 to 19
+3189 de tmpcost is 11.28342958
+after calc length is 640.71764848
+
+two points are 123 to 127
+3190 de tmpcost is 56.57658237
+after calc length is 697.29423085
+
+two points are 51 to 123
+3093 de tmpcost is 106.5709552
+after calc length is 803.86518605
+
+two points are 109 to 17
+3096 de tmpcost is 109.6074801
+after calc length is 109.6074801
+
+two points are 109 to 17
+3096 de tmpcost is 109.6074801
+after calc length is 219.2149602
+
+two points are 39 to 16
+3177 de tmpcost is 26.00939876
+after calc length is 245.22435896
+
+two points are 37 to 39
+3176 de tmpcost is 15.54791282
+after calc length is 260.77227178
+
+two points are 36 to 37
+3018 de tmpcost is 114.1929572
+after calc length is 374.96522898
+
+two points are 36 to 38
+3108 de tmpcost is 60.75352958
+after calc length is 435.71875856
+
+two points are 36 to 38
+3108 de tmpcost is 60.75352958
+after calc length is 496.47228814
+
+two points are 38 to 34
+3107 de tmpcost is 26.20160068
+after calc length is 522.67388882
+
+two points are 34 to 35
+3017 de tmpcost is 45.78761631
+after calc length is 568.46150513
+
+two points are 109 to 17
+3096 de tmpcost is 109.6074801
+after calc length is 109.6074801
+
+two points are 17 to 49
+3095 de tmpcost is 30.37714521
+after calc length is 139.98462531
+
+two points are 49 to 50
+3026 de tmpcost is 69.58160011
+after calc length is 209.56622542
+
+two points are 16 to 50
+3202 de tmpcost is 30.04501372
+after calc length is 239.61123914
+
+two points are 39 to 16
+3177 de tmpcost is 26.00939876
+after calc length is 265.6206379
+
+two points are 37 to 39
+3176 de tmpcost is 15.54791282
+after calc length is 281.16855072
+
+two points are 20 to 37
+3175 de tmpcost is 64.11124439
+after calc length is 345.27979511
+
+two points are 20 to 37
+3175 de tmpcost is 64.11124439
+after calc length is 409.3910395
+
+two points are 21 to 40
+3021 de tmpcost is 94.24754734
+after calc length is 503.63858684
+
+two points are 21 to 40
+3021 de tmpcost is 94.24754734
+after calc length is 597.88613418
+
+two points are 42 to 44
+3159 de tmpcost is 35.15061795
+after calc length is 633.03675213
+
+two points are 42 to 44
+3159 de tmpcost is 35.15061795
+after calc length is 668.18737008
+
+two points are 41 to 43
+3171 de tmpcost is 35.59231286
+after calc length is 703.77968294
+
+two points are 148 to 41
+3172 de tmpcost is 18.4058359
+after calc length is 722.18551884
+
+two points are 23 to 148
+3204 de tmpcost is 78.74992688
+after calc length is 800.93544572
+
+two points are 22 to 23
+3011 de tmpcost is 135.4807714
+after calc length is 936.41621712
+
+two points are 43 to 22
+3170 de tmpcost is 7.650284956
+after calc length is 944.066502076
+
+two points are 45 to 46
+3024 de tmpcost is 96.26179658
+after calc length is 1040.328298656
+
+two points are 146 to 46
+3161 de tmpcost is 24.05789243
+after calc length is 1064.386191086
+
+two points are 44 to 146
+3160 de tmpcost is 8.648000929
+after calc length is 1073.034192015
+
+two points are 14 to 15
+3007 de tmpcost is 61.23141412
+after calc length is 1134.265606135
+
+two points are 15 to 96
+3059 de tmpcost is 210.2210463
+after calc length is 1344.486652435
+
+two points are 111 to 96
+3070 de tmpcost is 93.96552821
+after calc length is 1438.452180645
+
+two points are 110 to 111
+3068 de tmpcost is 215.4119038
+after calc length is 1653.864084445
+
+two points are 117 to 110
+3120 de tmpcost is 98.32993394
+after calc length is 1752.194018385
+
+two points are 117 to 110
+3120 de tmpcost is 98.32993394
+after calc length is 1850.523952325
+
+two points are 103 to 109
+3067 de tmpcost is 114.0579197
+after calc length is 114.0579197
+
+two points are 102 to 103
+3063 de tmpcost is 203.1129522
+after calc length is 317.1708719
+
+two points are 102 to 6
+3200 de tmpcost is 37.25259378
+after calc length is 354.42346568
+
+two points are 6 to 7
+3003 de tmpcost is 45.78882701
+after calc length is 400.21229269
+
+two points are 6 to 7
+3003 de tmpcost is 45.78882701
+after calc length is 446.0011197
+
+two points are 7 to 36
+3109 de tmpcost is 6.814274912
+after calc length is 452.815394612
+
+two points are 36 to 38
+3108 de tmpcost is 60.75352958
+after calc length is 513.568924192
+
+two points are 38 to 34
+3107 de tmpcost is 26.20160068
+after calc length is 539.770524872
+
+two points are 6 to 35
+3071 de tmpcost is 93.19385531
+after calc length is 632.964380182
+
+two points are 109 to 17
+3096 de tmpcost is 109.6074801
+after calc length is 109.6074801
+
+two points are 109 to 17
+3096 de tmpcost is 109.6074801
+after calc length is 219.2149602
+
+two points are 16 to 50
+3202 de tmpcost is 30.04501372
+after calc length is 249.25997392
+
+two points are 16 to 50
+3202 de tmpcost is 30.04501372
+after calc length is 279.30498764
+
+two points are 17 to 49
+3095 de tmpcost is 30.37714521
+after calc length is 309.68213285
+
+two points are 51 to 18
+3027 de tmpcost is 68.81365897
+after calc length is 378.49579182
+
+two points are 50 to 18
+3203 de tmpcost is 65.08119558
+after calc length is 443.5769874
+
+two points are 18 to 19
+3009 de tmpcost is 113.0842745
+after calc length is 556.6612619
+
+two points are 73 to 8
+3207 de tmpcost is 35.01926184
+after calc length is 591.68052374
+
+two points are 65 to 73
+3042 de tmpcost is 60.28108141
+after calc length is 651.96160515
+
+two points are 75 to 65
+3154 de tmpcost is 60.46241493
+after calc length is 712.42402008
+
+two points are 74 to 75
+3044 de tmpcost is 38.4899054
+after calc length is 750.91392548
+
+two points are 73 to 74
+3043 de tmpcost is 64.12102984
+after calc length is 815.03495532
+
+two points are 74 to 76
+3133 de tmpcost is 37.52521524
+after calc length is 852.56017056
+
+two points are 62 to 63
+3035 de tmpcost is 70.05971782
+after calc length is 922.61988838
+
+two points are 62 to 70
+3138 de tmpcost is 26.73569781
+after calc length is 949.35558619
+
+two points are 62 to 70
+3138 de tmpcost is 26.73569781
+after calc length is 976.091284
+
+two points are 68 to 69
+3143 de tmpcost is 53.82837836
+after calc length is 1029.91966236
+
+two points are 67 to 68
+3038 de tmpcost is 50.75348166
+after calc length is 1080.67314402
+
+two points are 34 to 109
+3106 de tmpcost is 79.8524732
+after calc length is 79.8524732
+
+two points are 34 to 109
+3106 de tmpcost is 79.8524732
+after calc length is 159.7049464
+
+two points are 6 to 35
+3071 de tmpcost is 93.19385531
+after calc length is 252.89880171
+
+two points are 102 to 6
+3200 de tmpcost is 37.25259378
+after calc length is 290.15139549
+
+two points are 102 to 6
+3200 de tmpcost is 37.25259378
+after calc length is 327.40398927
+
+two points are 102 to 103
+3063 de tmpcost is 203.1129522
+after calc length is 530.51694147
+
+two points are 34 to 109
+3106 de tmpcost is 79.8524732
+after calc length is 79.8524732
+
+two points are 38 to 34
+3107 de tmpcost is 26.20160068
+after calc length is 106.05407388
+
+two points are 38 to 34
+3107 de tmpcost is 26.20160068
+after calc length is 132.25567456
+
+two points are 37 to 39
+3176 de tmpcost is 15.54791282
+after calc length is 147.80358738
+
+two points are 20 to 37
+3175 de tmpcost is 64.11124439
+after calc length is 211.91483177
+
+two points are 20 to 37
+3175 de tmpcost is 64.11124439
+after calc length is 276.02607616
+
+two points are 20 to 21
+3010 de tmpcost is 31.49281439
+after calc length is 307.51889055
+
+two points are 23 to 148
+3204 de tmpcost is 78.74992688
+after calc length is 386.26881743
+
+two points are 22 to 23
+3011 de tmpcost is 135.4807714
+after calc length is 521.74958883
+
+two points are 43 to 22
+3170 de tmpcost is 7.650284956
+after calc length is 529.399873786
+
+two points are 43 to 22
+3170 de tmpcost is 7.650284956
+after calc length is 537.050158742
+
+two points are 42 to 44
+3159 de tmpcost is 35.15061795
+after calc length is 572.200776692
+
+two points are 40 to 42
+3158 de tmpcost is 31.60016039
+after calc length is 603.800937082
+
+two points are 145 to 40
+3157 de tmpcost is 31.158377
+after calc length is 634.959314082
+
+two points are 124 to 145
+3156 de tmpcost is 104.1217015
+after calc length is 739.081015582
+
+two points are 124 to 145
+3156 de tmpcost is 104.1217015
+after calc length is 843.202717082
+
+two points are 124 to 7
+3110 de tmpcost is 102.6003563
+after calc length is 945.803073382
+
+two points are 102 to 6
+3200 de tmpcost is 37.25259378
+after calc length is 983.055667162
+
+two points are 102 to 6
+3200 de tmpcost is 37.25259378
+after calc length is 1020.308260942
+
+two points are 102 to 103
+3063 de tmpcost is 203.1129522
+after calc length is 1223.421213142
+
+two points are 34 to 109
+3106 de tmpcost is 79.8524732
+after calc length is 79.8524732
+
+two points are 38 to 34
+3107 de tmpcost is 26.20160068
+after calc length is 106.05407388
+
+two points are 38 to 34
+3107 de tmpcost is 26.20160068
+after calc length is 132.25567456
+
+two points are 23 to 39
+3020 de tmpcost is 44.45725944
+after calc length is 176.712934
+
+two points are 23 to 148
+3204 de tmpcost is 78.74992688
+after calc length is 255.46286088
+
+two points are 148 to 41
+3172 de tmpcost is 18.4058359
+after calc length is 273.86869678
+
+two points are 41 to 42
+3022 de tmpcost is 94.63116969
+after calc length is 368.49986647
+
+two points are 40 to 42
+3158 de tmpcost is 31.60016039
+after calc length is 400.10002686
+
+two points are 145 to 40
+3157 de tmpcost is 31.158377
+after calc length is 431.25840386
+
+two points are 124 to 145
+3156 de tmpcost is 104.1217015
+after calc length is 535.38010536
+
+two points are 124 to 145
+3156 de tmpcost is 104.1217015
+after calc length is 639.50180686
+
+two points are 124 to 7
+3110 de tmpcost is 102.6003563
+after calc length is 742.10216316
+
+two points are 102 to 6
+3200 de tmpcost is 37.25259378
+after calc length is 779.35475694
+
+two points are 30 to 102
+3099 de tmpcost is 27.3843769
+after calc length is 806.73913384
+
+two points are 30 to 102
+3099 de tmpcost is 27.3843769
+after calc length is 834.12351074
+
+two points are 30 to 31
+3015 de tmpcost is 70.35649773
+after calc length is 904.48000847
+
+two points are 31 to 132
+3100 de tmpcost is 31.77137588
+after calc length is 936.25138435
+
+two points are 132 to 10
+3103 de tmpcost is 21.50865331
+after calc length is 957.76003766
+
+two points are 10 to 12
+3192 de tmpcost is 56.05070949
+after calc length is 1013.81074715
+
+two points are 12 to 32
+3193 de tmpcost is 42.57225506
+after calc length is 1056.38300221
+
+two points are 32 to 125
+3104 de tmpcost is 61.1419849
+after calc length is 1117.52498711
+
+two points are 113 to 114
+3072 de tmpcost is 88.02421617
+after calc length is 1205.54920328
+
+two points are 125 to 114
+3081 de tmpcost is 62.1925333
+after calc length is 1267.74173658
+
+two points are 114 to 107
+3119 de tmpcost is 29.17674516
+after calc length is 1296.91848174
+
+two points are 110 to 111
+3068 de tmpcost is 215.4119038
+after calc length is 1512.33038554
+
+two points are 117 to 110
+3120 de tmpcost is 98.32993394
+after calc length is 1610.66031948
+
+two points are 115 to 117
+3121 de tmpcost is 27.78561289
+after calc length is 1638.44593237
+
+two points are 134 to 115
+3122 de tmpcost is 49.77305719
+after calc length is 1688.21898956
+
+two points are 147 to 134
+3187 de tmpcost is 57.98272242
+after calc length is 1746.20171198
+
+two points are 147 to 134
+3187 de tmpcost is 57.98272242
+after calc length is 1804.1844344
+
+two points are 147 to 55
+3163 de tmpcost is 64.68713705
+after calc length is 1868.87157145
+
+two points are 135 to 54
+3125 de tmpcost is 68.42887546
+after calc length is 1937.30044691
+
+two points are 126 to 135
+3126 de tmpcost is 22.26593506
+after calc length is 1959.56638197
+
+two points are 136 to 126
+3127 de tmpcost is 42.71720373
+after calc length is 2002.2835857
+
+two points are 137 to 136
+3128 de tmpcost is 53.94073121
+after calc length is 2056.22431691
+
+two points are 138 to 137
+3129 de tmpcost is 15.16536301
+after calc length is 2071.38967992
+
+two points are 9 to 138
+3130 de tmpcost is 21.62465051
+after calc length is 2093.01433043
+
+two points are 74 to 9
+3132 de tmpcost is 31.26077766
+after calc length is 2124.27510809
+
+two points are 74 to 76
+3133 de tmpcost is 37.52521524
+after calc length is 2161.80032333
+
+two points are 74 to 76
+3133 de tmpcost is 37.52521524
+after calc length is 2199.32553857
+
+two points are 63 to 75
+3155 de tmpcost is 49.13783574
+after calc length is 2248.46337431
+
+two points are 63 to 75
+3155 de tmpcost is 49.13783574
+after calc length is 2297.60121005
+
+two points are 75 to 65
+3154 de tmpcost is 60.46241493
+after calc length is 2358.06362498
+
+two points are 64 to 66
+3037 de tmpcost is 77.17250517
+after calc length is 2435.23613015
+
+two points are 68 to 66
+3206 de tmpcost is 33.14988644
+after calc length is 2468.38601659
+
+two points are 68 to 66
+3206 de tmpcost is 33.14988644
+after calc length is 2501.53590303
+
+two points are 68 to 69
+3143 de tmpcost is 53.82837836
+after calc length is 2555.36428139
+
+two points are 66 to 71
+3145 de tmpcost is 42.13861482
+after calc length is 2597.50289621
+
+two points are 141 to 24
+3142 de tmpcost is 27.49227382
+after calc length is 2624.99517003
+
+two points are 27 to 24
+3152 de tmpcost is 55.55875608
+after calc length is 2680.55392611
+
+two points are 26 to 27
+3013 de tmpcost is 127.9313116
+after calc length is 2808.48523771
+
+two points are 112 to 26
+3084 de tmpcost is 68.52484169
+after calc length is 2877.0100794
+
+two points are 112 to 78
+3090 de tmpcost is 35.80095015
+after calc length is 2912.81102955
+
+two points are 112 to 78
+3090 de tmpcost is 35.80095015
+after calc length is 2948.6119797
+
+two points are 80 to 81
+3049 de tmpcost is 63.7292322
+after calc length is 3012.3412119
+
+two points are 84 to 81
+3052 de tmpcost is 46.56690394
+after calc length is 3058.90811584
+
+two points are 142 to 84
+3146 de tmpcost is 54.24233292
+after calc length is 3113.15044876
+
+two points are 34 to 109
+3106 de tmpcost is 79.8524732
+after calc length is 79.8524732
+
+two points are 38 to 34
+3107 de tmpcost is 26.20160068
+after calc length is 106.05407388
+
+two points are 36 to 38
+3108 de tmpcost is 60.75352958
+after calc length is 166.80760346
+
+two points are 7 to 36
+3109 de tmpcost is 6.814274912
+after calc length is 173.621878372
+
+two points are 6 to 7
+3003 de tmpcost is 45.78882701
+after calc length is 219.410705382
+
+two points are 6 to 35
+3071 de tmpcost is 93.19385531
+after calc length is 312.604560692
+
+two points are 6 to 35
+3071 de tmpcost is 93.19385531
+after calc length is 405.798416002
+
+two points are 34 to 109
+3106 de tmpcost is 79.8524732
+after calc length is 79.8524732
+
+two points are 34 to 109
+3106 de tmpcost is 79.8524732
+after calc length is 159.7049464
+
+two points are 34 to 35
+3017 de tmpcost is 45.78761631
+after calc length is 205.49256271
+
+two points are 103 to 109
+3067 de tmpcost is 114.0579197
+after calc length is 114.0579197
+
+two points are 103 to 131
+3097 de tmpcost is 16.56405859
+after calc length is 130.62197829
+
+two points are 34 to 109
+3106 de tmpcost is 79.8524732
+after calc length is 79.8524732
+
+two points are 34 to 109
+3106 de tmpcost is 79.8524732
+after calc length is 159.7049464
+
+two points are 6 to 35
+3071 de tmpcost is 93.19385531
+after calc length is 252.89880171
+
+two points are 102 to 6
+3200 de tmpcost is 37.25259378
+after calc length is 290.15139549
+
+two points are 30 to 102
+3099 de tmpcost is 27.3843769
+after calc length is 317.53577239
+
+two points are 97 to 30
+3098 de tmpcost is 48.45003313
+after calc length is 365.98580552
+
+two points are 97 to 30
+3098 de tmpcost is 48.45003313
+after calc length is 414.43583865
+
+two points are 97 to 98
+3060 de tmpcost is 103.0815655
+after calc length is 517.51740415
+
+two points are 98 to 132
+3102 de tmpcost is 49.54114378
+after calc length is 567.05854793
+
+two points are 30 to 31
+3015 de tmpcost is 70.35649773
+after calc length is 637.41504566
+
+two points are 34 to 109
+3106 de tmpcost is 79.8524732
+after calc length is 79.8524732
+
+two points are 38 to 34
+3107 de tmpcost is 26.20160068
+after calc length is 106.05407388
+
+two points are 36 to 38
+3108 de tmpcost is 60.75352958
+after calc length is 166.80760346
+
+two points are 36 to 38
+3108 de tmpcost is 60.75352958
+after calc length is 227.56113304
+
+two points are 36 to 37
+3018 de tmpcost is 114.1929572
+after calc length is 341.75409024
+
+two points are 37 to 39
+3176 de tmpcost is 15.54791282
+after calc length is 357.30200306
+
+two points are 23 to 148
+3204 de tmpcost is 78.74992688
+after calc length is 436.05192994
+
+two points are 23 to 148
+3204 de tmpcost is 78.74992688
+after calc length is 514.80185682
+
+two points are 21 to 148
+3173 de tmpcost is 12.52921092
+after calc length is 527.33106774
+
+two points are 145 to 40
+3157 de tmpcost is 31.158377
+after calc length is 558.48944474
+
+two points are 145 to 20
+3174 de tmpcost is 92.99956103
+after calc length is 651.48900577
+
+two points are 34 to 109
+3106 de tmpcost is 79.8524732
+after calc length is 79.8524732
+
+two points are 34 to 109
+3106 de tmpcost is 79.8524732
+after calc length is 159.7049464
+
+two points are 34 to 35
+3017 de tmpcost is 45.78761631
+after calc length is 205.49256271
+
+two points are 109 to 17
+3096 de tmpcost is 109.6074801
+after calc length is 109.6074801
+
+two points are 17 to 49
+3095 de tmpcost is 30.37714521
+after calc length is 139.98462531
+
+two points are 17 to 49
+3095 de tmpcost is 30.37714521
+after calc length is 170.36177052
+
+two points are 49 to 51
+3094 de tmpcost is 65.18865976
+after calc length is 235.55043028
+
+two points are 123 to 130
+3092 de tmpcost is 85.78400299
+after calc length is 321.33443327
+
+two points are 123 to 130
+3092 de tmpcost is 85.78400299
+after calc length is 407.11843626
+
+two points are 130 to 72
+3209 de tmpcost is 50.45543634
+after calc length is 457.5738726
+
+two points are 123 to 127
+3190 de tmpcost is 56.57658237
+after calc length is 514.15045497
+
+two points are 127 to 19
+3189 de tmpcost is 11.28342958
+after calc length is 525.43388455
+
+two points are 50 to 18
+3203 de tmpcost is 65.08119558
+after calc length is 590.51508013
+
+two points are 16 to 50
+3202 de tmpcost is 30.04501372
+after calc length is 620.56009385
+
+two points are 39 to 16
+3177 de tmpcost is 26.00939876
+after calc length is 646.56949261
+
+two points are 38 to 39
+3019 de tmpcost is 104.9901938
+after calc length is 751.55968641
+
+two points are 36 to 38
+3108 de tmpcost is 60.75352958
+after calc length is 812.31321599
+
+two points are 36 to 38
+3108 de tmpcost is 60.75352958
+after calc length is 873.06674557
+
+two points are 20 to 37
+3175 de tmpcost is 64.11124439
+after calc length is 937.17798996
+
+two points are 20 to 37
+3175 de tmpcost is 64.11124439
+after calc length is 1001.28923435
+
+two points are 20 to 21
+3010 de tmpcost is 31.49281439
+after calc length is 1032.78204874
+
+two points are 21 to 148
+3173 de tmpcost is 12.52921092
+after calc length is 1045.31125966
+
+two points are 41 to 42
+3022 de tmpcost is 94.63116969
+after calc length is 1139.94242935
+
+two points are 41 to 42
+3022 de tmpcost is 94.63116969
+after calc length is 1234.57359904
+
+two points are 44 to 146
+3160 de tmpcost is 8.648000929
+after calc length is 1243.221599969
+
+two points are 146 to 46
+3161 de tmpcost is 24.05789243
+after calc length is 1267.279492399
+
+two points are 146 to 46
+3161 de tmpcost is 24.05789243
+after calc length is 1291.337384829
+
+two points are 45 to 47
+3168 de tmpcost is 37.73889975
+after calc length is 1329.076284579
+
+two points are 47 to 48
+3025 de tmpcost is 97.79986014
+after calc length is 1426.876144719
+
+two points are 46 to 48
+3162 de tmpcost is 37.1402664
+after calc length is 1464.016411119
+
+two points are 48 to 126
+3082 de tmpcost is 70.95385613
+after calc length is 1534.970267249
+
+two points are 53 to 135
+3166 de tmpcost is 52.00135615
+after calc length is 1586.971623399
+
+two points are 53 to 135
+3166 de tmpcost is 52.00135615
+after calc length is 1638.972979549
+
+two points are 53 to 139
+3165 de tmpcost is 63.91748931
+after calc length is 1702.890468859
+
+two points are 76 to 77
+3045 de tmpcost is 68.81231542
+after calc length is 1771.702784279
+
+two points are 76 to 138
+3134 de tmpcost is 25.640186
+after calc length is 1797.342970279
+
+two points are 138 to 137
+3129 de tmpcost is 15.16536301
+after calc length is 1812.508333289
+
+two points are 47 to 137
+3167 de tmpcost is 71.74222872
+after calc length is 1884.250562009
+
+two points are 103 to 109
+3067 de tmpcost is 114.0579197
+after calc length is 114.0579197
+
+two points are 102 to 103
+3063 de tmpcost is 203.1129522
+after calc length is 317.1708719
+
+two points are 102 to 6
+3200 de tmpcost is 37.25259378
+after calc length is 354.42346568
+
+two points are 6 to 7
+3003 de tmpcost is 45.78882701
+after calc length is 400.21229269
+
+two points are 124 to 7
+3110 de tmpcost is 102.6003563
+after calc length is 502.81264899
+
+two points are 33 to 124
+3111 de tmpcost is 55.18614319
+after calc length is 557.99879218
+
+two points are 32 to 33
+3016 de tmpcost is 46.00905383
+after calc length is 604.00784601
+
+two points are 12 to 32
+3193 de tmpcost is 42.57225506
+after calc length is 646.58010107
+
+two points are 10 to 12
+3192 de tmpcost is 56.05070949
+after calc length is 702.63081056
+
+two points are 10 to 12
+3192 de tmpcost is 56.05070949
+after calc length is 758.68152005
+
+two points are 121 to 11
+3105 de tmpcost is 50.98198565
+after calc length is 809.6635057
+
+two points are 121 to 11
+3105 de tmpcost is 50.98198565
+after calc length is 860.64549135
+
+two points are 103 to 109
+3067 de tmpcost is 114.0579197
+after calc length is 114.0579197
+
+two points are 102 to 103
+3063 de tmpcost is 203.1129522
+after calc length is 317.1708719
+
+two points are 30 to 102
+3099 de tmpcost is 27.3843769
+after calc length is 344.5552488
+
+two points are 97 to 30
+3098 de tmpcost is 48.45003313
+after calc length is 393.00528193
+
+two points are 97 to 30
+3098 de tmpcost is 48.45003313
+after calc length is 441.45531506
+
+two points are 97 to 98
+3060 de tmpcost is 103.0815655
+after calc length is 544.53688056
+
+two points are 132 to 10
+3103 de tmpcost is 21.50865331
+after calc length is 566.04553387
+
+two points are 132 to 10
+3103 de tmpcost is 21.50865331
+after calc length is 587.55418718
+
+two points are 10 to 12
+3192 de tmpcost is 56.05070949
+after calc length is 643.60489667
+
+two points are 11 to 32
+3194 de tmpcost is 55.81538712
+after calc length is 699.42028379
+
+two points are 124 to 11
+3080 de tmpcost is 46.5681227
+after calc length is 745.98840649
+
+two points are 124 to 145
+3156 de tmpcost is 104.1217015
+after calc length is 850.11010799
+
+two points are 145 to 40
+3157 de tmpcost is 31.158377
+after calc length is 881.26848499
+
+two points are 40 to 42
+3158 de tmpcost is 31.60016039
+after calc length is 912.86864538
+
+two points are 42 to 44
+3159 de tmpcost is 35.15061795
+after calc length is 948.01926333
+
+two points are 42 to 44
+3159 de tmpcost is 35.15061795
+after calc length is 983.16988128
+
+two points are 41 to 43
+3171 de tmpcost is 35.59231286
+after calc length is 1018.76219414
+
+two points are 148 to 41
+3172 de tmpcost is 18.4058359
+after calc length is 1037.16803004
+
+two points are 23 to 148
+3204 de tmpcost is 78.74992688
+after calc length is 1115.91795692
+
+two points are 22 to 23
+3011 de tmpcost is 135.4807714
+after calc length is 1251.39872832
+
+two points are 43 to 22
+3170 de tmpcost is 7.650284956
+after calc length is 1259.049013276
+
+two points are 45 to 46
+3024 de tmpcost is 96.26179658
+after calc length is 1355.310809856
+
+two points are 45 to 46
+3024 de tmpcost is 96.26179658
+after calc length is 1451.572606436
+
+two points are 46 to 48
+3162 de tmpcost is 37.1402664
+after calc length is 1488.712872836
+
+two points are 45 to 47
+3168 de tmpcost is 37.73889975
+after calc length is 1526.451772586
+
+two points are 137 to 136
+3128 de tmpcost is 53.94073121
+after calc length is 1580.392503796
+
+two points are 137 to 136
+3128 de tmpcost is 53.94073121
+after calc length is 1634.333235006
+
+two points are 136 to 77
+3135 de tmpcost is 26.18173546
+after calc length is 1660.514970466
+
+two points are 76 to 138
+3134 de tmpcost is 25.640186
+after calc length is 1686.155156466
+
+two points are 76 to 138
+3134 de tmpcost is 25.640186
+after calc length is 1711.795342466
+
+two points are 74 to 9
+3132 de tmpcost is 31.26077766
+after calc length is 1743.056120126
+
+two points are 74 to 76
+3133 de tmpcost is 37.52521524
+after calc length is 1780.581335366
+
+two points are 74 to 75
+3044 de tmpcost is 38.4899054
+after calc length is 1819.071240766
+
+two points are 65 to 73
+3042 de tmpcost is 60.28108141
+after calc length is 1879.352322176
+
+two points are 65 to 73
+3042 de tmpcost is 60.28108141
+after calc length is 1939.633403586
+
+two points are 130 to 72
+3209 de tmpcost is 50.45543634
+after calc length is 1990.088839926
+
+two points are 130 to 72
+3209 de tmpcost is 50.45543634
+after calc length is 2040.544276266
+
+two points are 130 to 87
+3091 de tmpcost is 48.45500799
+after calc length is 2088.999284256
+
+two points are 112 to 26
+3084 de tmpcost is 68.52484169
+after calc length is 2157.524125946
+
+two points are 26 to 64
+3153 de tmpcost is 30.61092884
+after calc length is 2188.135054786
+
+two points are 26 to 64
+3153 de tmpcost is 30.61092884
+after calc length is 2218.745983626
+
+two points are 64 to 66
+3037 de tmpcost is 77.17250517
+after calc length is 2295.918488796
+
+two points are 71 to 69
+3040 de tmpcost is 45.01487585
+after calc length is 2340.933364646
+
+two points are 71 to 69
+3040 de tmpcost is 45.01487585
+after calc length is 2385.948240496
+
+two points are 62 to 70
+3138 de tmpcost is 26.73569781
+after calc length is 2412.683938306
+
+two points are 62 to 70
+3138 de tmpcost is 26.73569781
+after calc length is 2439.419636116
+
+two points are 109 to 17
+3096 de tmpcost is 109.6074801
+after calc length is 109.6074801
+
+two points are 17 to 49
+3095 de tmpcost is 30.37714521
+after calc length is 139.98462531
+
+two points are 17 to 49
+3095 de tmpcost is 30.37714521
+after calc length is 170.36177052
+
+two points are 49 to 51
+3094 de tmpcost is 65.18865976
+after calc length is 235.55043028
+
+two points are 51 to 123
+3093 de tmpcost is 106.5709552
+after calc length is 342.12138548
+
+two points are 1 to 3
+3198 de tmpcost is 69.28761293
+after calc length is 411.40899841
+
+two points are 1 to 2
+3199 de tmpcost is 107.4076634
+after calc length is 518.81666181
+
+two points are 1 to 2
+3199 de tmpcost is 107.4076634
+after calc length is 626.22432521
+
+two points are 5 to 149
+3178 de tmpcost is 127.8249847
+after calc length is 754.04930991
+
+two points are 34 to 109
+3106 de tmpcost is 79.8524732
+after calc length is 79.8524732
+
+two points are 34 to 109
+3106 de tmpcost is 79.8524732
+after calc length is 159.7049464
+
+two points are 6 to 35
+3071 de tmpcost is 93.19385531
+after calc length is 252.89880171
+
+two points are 6 to 35
+3071 de tmpcost is 93.19385531
+after calc length is 346.09265702
+
+two points are 6 to 7
+3003 de tmpcost is 45.78882701
+after calc length is 391.88148403
+
+two points are 7 to 36
+3109 de tmpcost is 6.814274912
+after calc length is 398.695758942
+
+two points are 36 to 38
+3108 de tmpcost is 60.75352958
+after calc length is 459.449288522
+
+two points are 38 to 39
+3019 de tmpcost is 104.9901938
+after calc length is 564.439482322
+
+two points are 39 to 16
+3177 de tmpcost is 26.00939876
+after calc length is 590.448881082
+
+two points are 16 to 50
+3202 de tmpcost is 30.04501372
+after calc length is 620.493894802
+
+two points are 17 to 49
+3095 de tmpcost is 30.37714521
+after calc length is 650.871040012
+
+two points are 34 to 109
+3106 de tmpcost is 79.8524732
+after calc length is 79.8524732
+
+two points are 38 to 34
+3107 de tmpcost is 26.20160068
+after calc length is 106.05407388
+
+two points are 38 to 34
+3107 de tmpcost is 26.20160068
+after calc length is 132.25567456
+
+two points are 23 to 39
+3020 de tmpcost is 44.45725944
+after calc length is 176.712934
+
+two points are 23 to 148
+3204 de tmpcost is 78.74992688
+after calc length is 255.46286088
+
+two points are 23 to 148
+3204 de tmpcost is 78.74992688
+after calc length is 334.21278776
+
+two points are 21 to 148
+3173 de tmpcost is 12.52921092
+after calc length is 346.74199868
+
+two points are 21 to 40
+3021 de tmpcost is 94.24754734
+after calc length is 440.98954602
+
+
+two points are 42 to 44
+3159 de tmpcost is 35.15061795
+after calc length is 476.14016397
+
+two points are 44 to 146
+3160 de tmpcost is 8.648000929
+after calc length is 484.788164899
+
+two points are 44 to 146
+3160 de tmpcost is 8.648000929
+after calc length is 493.436165828
+
+two points are 14 to 15
+3007 de tmpcost is 61.23141412
+after calc length is 554.667579948
+
+two points are 133 to 15
+3117 de tmpcost is 131.8185208
+after calc length is 686.486100748
+
+109 
+34 
+38 
+39 
+23 
+148 
+21 
+40 
+42 
+44 
+146 
+14 
+15 
+133 
+a path is generated!!
