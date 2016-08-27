@@ -91,7 +91,7 @@ namespace ABC
         }
         void show()  //显示优解路径
         {
-            FileStream fs = new FileStream("D:\\result.txt", FileMode.Append);
+            FileStream fs = new FileStream("C:\\Users\\Lee\\Desktop\\result.txt", FileMode.Append);
             StreamWriter sw = new StreamWriter(fs);
             listBox1.Items.Clear();
             string str="";
@@ -107,22 +107,34 @@ namespace ABC
                     minc = min(minc, allpath.coverage[i]);
                     minf = min(minf, allpath.flowindex[i]);
                 }*/
-            for (int i = 1; i <= allpath.num; i++) 
-                //if (get[i])
+            for (int i = 1; i <= allpath.num; i++)
+            {
+                bool show = true;
+                for (int j = i + 1; j <= allpath.num; j++)
+                {
+                    if ((allpath.length[i] >= allpath.length[j]) && ((allpath.coverage[i] / allpath.length[i]) <= (allpath.coverage[j] / allpath.length[j])) && (allpath.flowindex[i] <= allpath.flowindex[j]))
+                    { 
+                        show = false;
+                        break;
+                    }
+                }
+                if (show)
                 {
                     str = str + allpath.length[i] + " " + allpath.coverage[i] / allpath.length[i] + " " + allpath.flowindex[i] + " ";
                     for (int j = 1; j <= allpath.pathnum[i]; j++)
                         str = str + allpath.path[i, j] + " ";
                     listBox1.Items.Add(str);
-    
+
                     sw.WriteLine(str);
                     str = "";
                 }
+                
+            }
             sw.Flush();
             sw.Close();
             fs.Close();
         }
-        bool findnode(int l,int fnode,int i) //返回l路径是否空余，并将空余节点存在数组node中第i个
+        bool findnode(int l,int fnode,int i) //返回l弧段是否空余，并将空余节点存在数组node中第i个
         {
             //SQLchan db = new SQLchan();  // 数据库类
             //int tnode=0;
@@ -158,7 +170,8 @@ namespace ABC
             }
             return nfree;
         }
-        int linknum(int a) //数据库返回a的路径个数
+
+        int linknum(int a) //数据库返回a链接的弧段个数
         {
             //SQLchan db = new SQLchan();  // 数据库类
             //String test3 = "select linknum from node where nodeid="+a.ToString()+";";
@@ -174,7 +187,7 @@ namespace ABC
             return dbData.mMyNodeTable[a].linkNum;
         }
 
-        int linkid(int a,bool free) //数据库读取a中所有路径名称，并返回没有使用的节点个数
+        int linkid(int a,bool free) //数据库读取a中所有弧段名称，并返回没有使用的节点个数
         {
             //SQLchan db = new SQLchan();  // 数据库类
             //int lnum = linknum(a);
@@ -216,11 +229,13 @@ namespace ABC
                 NUM = lnum;
             for (int i = 1; i <= lnum; i++)
             {
-                nway = (int) tmpLinkIdsList[i - 1]; //截取路径信息
+                nway = (int) tmpLinkIdsList[i - 1]; //截取弧段id信息
                 if (free) {
-                    if (findnode(nway, a, NUM + 1))
+                    if (findnode(nway, a, NUM + 1))//初始NUM=0，弧段nway另一节点是否出现在路径中
+                    {
                         NUM++;
-                    way[NUM] = nway;
+                        way[NUM] = nway;
+                    }
                 }
                 else
                     way[i] = nway;
@@ -235,8 +250,7 @@ namespace ABC
             //DataTable str = db.Select(test5);
             //return double.Parse(str.Rows[0][0].ToString());
 
-            //Console.WriteLine("dqz a is " + a);
-            double[] tmpcost = { -1, -1, -1};
+            double[] tmpcost = { 0, 0, 0};
 
             //foreach(SQLchan.myLinkElement tmpMyLinkEle in dbData.mMyLinkTable)
             //{
@@ -258,11 +272,13 @@ namespace ABC
             //        tmpcost[2] = tmpMyLinkEle.flowindex;
             //    }
             //}
-            Console.WriteLine("two points are " + dbData.mMyLinkTable[a - 3000].fromNode + " to " + dbData.mMyLinkTable[a - 3000].toNode);
+            //log
+           // Console.WriteLine("two points are " + dbData.mMyLinkTable[a - 3000].fromNode + " to " + dbData.mMyLinkTable[a - 3000].toNode);
             tmpcost[0] = dbData.mMyLinkTable[a - 3000].length;
             tmpcost[1] = dbData.mMyLinkTable[a - 3000].coverage;
             tmpcost[2] = dbData.mMyLinkTable[a - 3000].flowindex;
-            Console.WriteLine(a + " de tmpcost is " + tmpcost[0]);
+            //log
+            //Console.WriteLine(a + " de tmpcost is " + tmpcost[0]);
             return tmpcost;
         }
         int findway(int a, int b)//返回以a，b为两端节点的弧段id
@@ -391,7 +407,6 @@ namespace ABC
                             //length = length + data(findway(now, s), "length");
                             //coverage = coverage + data(findway(now, s), "coverage");
                             //flowindex = flowindex + data(findway(now, s), "flowindex");
-                            Console.WriteLine("calc length in find +");
                             double[] tmpcost = data(findway(now, s), "length");
                             length = length + tmpcost[0];
                             coverage = coverage + tmpcost[1];
@@ -404,7 +419,6 @@ namespace ABC
                             //length = length - data(findway(now, s), "length");
                             //coverage = coverage - data(findway(now, s), "coverage");
                             //flowindex = flowindex - data(findway(now, s), "flowindex");  //trap here
-                            Console.WriteLine("calc length in find -");
                             tmpcost = data(findway(now, s), "length");
                             length = length - tmpcost[0];
                             coverage = coverage - tmpcost[1];
@@ -475,13 +489,13 @@ namespace ABC
                 //length = length + data(way[randkey],"length");
                 //coverage = coverage + data(way[randkey], "coverage");
                 //flowindex = flowindex + data(way[randkey], "flowindex");
-                //Console.WriteLine("calc length in ranpath");
                 double[] tmpcost = data(way[randkey], "length");
                 length = length + tmpcost[0];
                 coverage = coverage + tmpcost[1];
                 flowindex = flowindex + tmpcost[2];
-                Console.WriteLine("after calc length is " + length);
-                Console.WriteLine();
+                //log
+                //Console.WriteLine("after calc length is " + length);
+                //Console.WriteLine();
             }
          }
 
@@ -498,7 +512,7 @@ namespace ABC
                 //与已有解比较，不是pareto则不保存
                 for (int j = 1; j < i; j++)
                 {
-                    if (length >= allpath.length[j] && coverage <= allpath.coverage[j] && flowindex <= allpath.flowindex[j])
+                    if ((length >= allpath.length[j] )&& ((coverage / length) <= (allpath.coverage[j] / allpath.length[j]) )&&( flowindex <= allpath.flowindex[j]))
                     { pareto = false; break; }
                 }
                 if (pareto)
@@ -507,9 +521,11 @@ namespace ABC
                     leader[i] = i;
                     i++;
                 }
-                for (int j = 1; j <= allpath.pathnum[i - 1]; j++)
-                    Console.WriteLine(allpath.path[i - 1, j] + " ");
-                Console.WriteLine("a path is generated!!\n");
+                //log
+                //Console.WriteLine(i + "pareto=" + pareto);
+                //for (int j = 1; j <= allpath.pathnum[i - 1]; j++)
+                //    Console.WriteLine(allpath.path[i - 1, j] + " ");
+                //Console.WriteLine("a path is generated!!\n");
             }
             clearfollower(SN);
         }
